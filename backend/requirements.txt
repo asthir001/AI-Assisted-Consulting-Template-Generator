@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+pydantic
+google-generativeai 
+markdown2 
+python-docx 
+reportlab 
+pypandoc 
